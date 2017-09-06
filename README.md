@@ -2,8 +2,6 @@
 
 This is where I'll be testing and building my VR side projects.
 
-<a href="#"></a>
-
 
 
 
